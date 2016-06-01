@@ -1,5 +1,7 @@
 # Ransomware Decryptor List
 
+![Status Incomplete](https://img.shields.io/badge/Status-Incomplete-orange.svg)
+
 #### Trojan-Ransom.Win32.Rannoh infection ####
   * http://support.kaspersky.com/viruses/disinfection/8547?_ga=1.119880136.197632515.1463995280#block2
  

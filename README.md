@@ -29,3 +29,9 @@ The following table will be a large list of ransomware decryptor. This is consis
 | PClock          | https://decrypter.emsisoft.com/download/pclock |
 | CryptoDefense   | https://decrypter.emsisoft.com/download/cryptodefense |
 | Harasom         | https://decrypter.emsisoft.com/download/harasom |
+| Decrypt Protect | http://tmp.emsisoft.com/fw/decrypt_mblblock.exe |
+| Rakhni          | http://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip |
+| Rector          | http://media.kaspersky.com/utilities/VirusUtilities/EN/rectordecryptor.zip |
+
+## Note
+The list may incomplete, feel free to constribute. Thank you

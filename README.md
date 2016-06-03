@@ -35,7 +35,8 @@ The following table will be a large list of ransomware decryptor. This is consis
 | Rector          | http://media.kaspersky.com/utilities/VirusUtilities/EN/rectordecryptor.zip |
 | Scatter         | http://media.kaspersky.com/utilities/VirusUtilities/EN/ScatterDecryptor.zip |
 | Jigsaw          | https://download.bleepingcomputer.com/demonslay335/JigSawDecrypter.zip |
-| TeslaCrypt      | http://www.bleepingcomputer.com/news/security/teslacrypt-developers-recommend-tesladecoder-to-decrypt-files/ |
+| TeslaCrypt      | http://www.bleepingcomputer.com/news/security/teslacrypt-shuts-down-and-releases-master-decryption-key/ |
+| Locker          | https://drive.google.com/file/d/0B6y1wjhVZ-WPVkttLVdIWXNodkk/view?usp=sharing |
 
 ## Note
 The list may incomplete, feel free to constribute. Thank you

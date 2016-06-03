@@ -41,6 +41,7 @@ The following table will be a large list of ransomware decryptor. This is consis
 | Linux.Encoder.1 | http://labs.bitdefender.com/wp-content/plugins/download-monitor/download.php?id=Decrypter_0-1.3.zip |
 | CryptoLocker*   | https://www.fireeye.com/blog/executive-perspective/2014/08/your-locker-of-information-for-cryptolocker-decryption.html |
 | CryptoTorLocker2015 | http://www.bleepingcomputer.com/news/security/help-recover-files-txt-ransomware-installed-by-targeted-terminal-services-attacks/ |
+| Petya           | https://github.com/hasherezade/petya_recovery |
 
 ## Note
 The list may not complete, feel free to constribute. Thank you

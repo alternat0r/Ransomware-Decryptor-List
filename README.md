@@ -15,6 +15,7 @@ The following table will be a large list of ransomware decryptor. This is consis
 | Operation Global III | http://www.bleepingcomputer.com/forums/t/559220/operation-global-iii-ransomware-not-only-encrypts-but-infects-your-data-as-well/ |
 | BadBlock        | https://decrypter.emsisoft.com/download/badblock |
 | Xorist          | https://decrypter.emsisoft.com/download/xorist |
+|                 | http://media.kaspersky.com/utilities/VirusUtilities/EN/xoristdecryptor.zip |
 | 777             | https://decrypter.emsisoft.com/download/777 |
 | AutoLocky       | https://decrypter.emsisoft.com/download/autolocky |
 | Nemucod         | https://decrypter.emsisoft.com/download/nemucod |
@@ -32,6 +33,9 @@ The following table will be a large list of ransomware decryptor. This is consis
 | Decrypt Protect | http://tmp.emsisoft.com/fw/decrypt_mblblock.exe |
 | Rakhni          | http://media.kaspersky.com/utilities/VirusUtilities/EN/rakhnidecryptor.zip |
 | Rector          | http://media.kaspersky.com/utilities/VirusUtilities/EN/rectordecryptor.zip |
+| Scatter         | http://media.kaspersky.com/utilities/VirusUtilities/EN/ScatterDecryptor.zip |
+| Jigsaw          | https://download.bleepingcomputer.com/demonslay335/JigSawDecrypter.zip |
+| TeslaCrypt      | http://www.bleepingcomputer.com/news/security/teslacrypt-developers-recommend-tesladecoder-to-decrypt-files/ |
 
 ## Note
 The list may incomplete, feel free to constribute. Thank you

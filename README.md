@@ -37,6 +37,7 @@ The following table will be a large list of ransomware decryptor. This is consis
 | Jigsaw          | https://download.bleepingcomputer.com/demonslay335/JigSawDecrypter.zip |
 | TeslaCrypt      | http://www.bleepingcomputer.com/news/security/teslacrypt-shuts-down-and-releases-master-decryption-key/ |
 | Locker          | https://drive.google.com/file/d/0B6y1wjhVZ-WPVkttLVdIWXNodkk/view?usp=sharing |
+| Torlocker       | http://media.kaspersky.com/utilities/VirusUtilities/EN/ScraperDecryptor.zip |
 
 ## Note
-The list may incomplete, feel free to constribute. Thank you
+The list may not complete, feel free to constribute. Thank you

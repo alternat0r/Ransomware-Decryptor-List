@@ -38,7 +38,8 @@ The following table will be a large list of ransomware decryptor. This is consis
 | TeslaCrypt      | http://www.bleepingcomputer.com/news/security/teslacrypt-shuts-down-and-releases-master-decryption-key/ |
 | Locker          | https://drive.google.com/file/d/0B6y1wjhVZ-WPVkttLVdIWXNodkk/view?usp=sharing |
 | Torlocker       | http://media.kaspersky.com/utilities/VirusUtilities/EN/ScraperDecryptor.zip |
-| Linux.Encoder.1 | http://labs.bitdefender.com/wp-content/plugins/download-monitor/download.php?id=Decrypter_0-1.3.zip, https://github.com/eugenekolo/linux-ransomware-decrypter |
+| Linux.Encoder.1 | - http://labs.bitdefender.com/wp-content/plugins/download-monitor/download.php?id=Decrypter_0-1.3.zip |
+|                 | - https://github.com/eugenekolo/linux-ransomware-decrypter |
 | CryptoLocker*   | https://www.fireeye.com/blog/executive-perspective/2014/08/your-locker-of-information-for-cryptolocker-decryption.html |
 | CryptoTorLocker2015 | http://www.bleepingcomputer.com/news/security/help-recover-files-txt-ransomware-installed-by-targeted-terminal-services-attacks/ |
 | Petya           | https://github.com/hasherezade/petya_recovery |

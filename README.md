@@ -8,7 +8,7 @@ The following table will be a large list of ransomware decryptor. This is consis
 | --------------- | ------------- | ------ |
 | Ronnoh          | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](http://support.kaspersky.com/viruses/disinfection/8547?_ga=1.119880136.197632515.1463995280#block2) | - |
 | CryptXXX        | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](http://www.bleepingcomputer.com/virus-removal/cryptxxx-ransomware-help-information#decrypt) | - |
-|                 | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](https://noransom.kaspersky.com/) | - |
+| CryptXXX        | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](https://noransom.kaspersky.com/) | - |
 | Xoris, 777      | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](http://www.bleepingcomputer.com/news/security/emsisoft-releases-decryptors-for-the-xorist-and-777-ransomware/) | - |
 | Coinvault       | [![goto-download](https://img.shields.io/badge/Goto-Download-green.svg)](https://noransom.kaspersky.com/static/CoinVaultDecryptor.zip) | - |
 | HydraCrypt and UmbreCrypt | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](http://blog.emsisoft.com/2016/02/12/decrypter-for-hydracrypt-and-umbrecrypt-available/) | - |

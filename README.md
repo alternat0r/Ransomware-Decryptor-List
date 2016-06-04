@@ -38,9 +38,9 @@ The following table will be a large list of ransomware decryptor. This is consis
 | TeslaCrypt      | [![goto-download](https://img.shields.io/badge/Goto-Download-green.svg)](http://www.bleepingcomputer.com/news/security/teslacrypt-shuts-down-and-releases-master-decryption-key/) | - |
 | Locker          | [![goto-download](https://img.shields.io/badge/Goto-Download-green.svg)](https://drive.google.com/file/d/0B6y1wjhVZ-WPVkttLVdIWXNodkk/view?usp=sharing) | - |
 | Torlocker       | [![goto-download](https://img.shields.io/badge/Goto-Download-green.svg)](http://media.kaspersky.com/utilities/VirusUtilities/EN/ScraperDecryptor.zip) | - |
-| Linux.Encoder.1 | - [![goto-download](https://img.shields.io/badge/Goto-Download-green.svg)](http://labs.bitdefender.com/wp-content/plugins/download-monitor/download.php?id=Decrypter_0-1.3.zip) | - |
-|                 | - [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](https://github.com/eugenekolo/linux-ransomware-decrypter) | - |
-| CryptoLocker*   | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](https://www.fireeye.com/blog/executive-perspective/2014/08/your-locker-of-information-for-cryptolocker-decryption.html) | Discontinue |
+| Linux.Encoder.1 | [![goto-download](https://img.shields.io/badge/Goto-Download-green.svg)](http://labs.bitdefender.com/wp-content/plugins/download-monitor/download.php?id=Decrypter_0-1.3.zip) | - |
+| Linux.Encoder.1  | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](https://github.com/eugenekolo/linux-ransomware-decrypter) | - |
+| CryptoLocker*   | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](https://www.fireeye.com/blog/executive-perspective/2014/08/your-locker-of-information-for-cryptolocker-decryption.html) | Discontinued |
 | CryptoTorLocker2015 | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](http://www.bleepingcomputer.com/news/security/help-recover-files-txt-ransomware-installed-by-targeted-terminal-services-attacks/) | - |
 | Petya           | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](https://github.com/hasherezade/petya_recovery) | - |
 

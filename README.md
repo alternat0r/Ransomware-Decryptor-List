@@ -47,6 +47,7 @@ The following table will be a large list of ransomware decryptor. This is consis
 | CryptoTorLocker2015 | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](http://www.bleepingcomputer.com/news/security/help-recover-files-txt-ransomware-installed-by-targeted-terminal-services-attacks/) | - |
 | Petya           | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](https://github.com/hasherezade/petya_recovery) | - |
 | SNSLocker       | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](https://esupport.trendmicro.com/solution/en-US/1114221.aspx) | - |
+| zCrypt          | NA | NA |
 
 ## Note
 The list may not complete, feel free to constribute. Thank you

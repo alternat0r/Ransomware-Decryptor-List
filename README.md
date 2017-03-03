@@ -12,7 +12,7 @@ The following table will be a large list of ransomware decryptor. This is consis
 | CryptXXX        | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](https://noransom.kaspersky.com/) | - |
 | CryptXXX        | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](https://esupport.trendmicro.com/solution/en-US/1114221.aspx) | - |
 | Crypt888,Mircop | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](http://files-download.avg.com/util/avgrem/avg_decryptor_Crypt888.exe) | - |
-| Dharma          | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](https://www.bleepingcomputer.com/news/security/kaspersky-releases-decryptor-for-the-dharma-ransomware/#cid4721) | - |
+| Dharma          | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](https://www.bleepingcomputer.com/news/security/kaspersky-releases-decryptor-for-the-dharma-ransomware/#cid4721) | .dharma extension only |
 | Xoris, 777      | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](http://www.bleepingcomputer.com/news/security/emsisoft-releases-decryptors-for-the-xorist-and-777-ransomware/) | - |
 | Coinvault       | [![goto-download](https://img.shields.io/badge/Goto-Download-green.svg)](https://noransom.kaspersky.com/static/CoinVaultDecryptor.zip) | - |
 | HydraCrypt and UmbreCrypt | [![goto-url](https://img.shields.io/badge/Goto-URL-brightgreen.svg)](http://blog.emsisoft.com/2016/02/12/decrypter-for-hydracrypt-and-umbrecrypt-available/) | - |
